@@ -6,7 +6,7 @@
 // <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places">
 function initAutocomplete() {
   const map = new google.maps.Map(document.getElementById("map"), {
-    center: { lat: -33.8688, lng: 151.2195 },
+    center: { lat: 23.0674, lng: 72.5357 },
     zoom: 17,
     mapTypeId: "roadmap",
   });
